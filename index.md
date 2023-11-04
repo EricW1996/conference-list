@@ -209,8 +209,8 @@ title: Conference List for Future Reference
       <td>September</td>
       <td>October</td>
       <td>December</td>
-      <td>Microsoft CMT</td>
-      <td>Cyberchair</td>
+      <td>cyberchair</td>
+      <td></td>
     </tr> 
     <tr>
       <th scope="row">22</th>
